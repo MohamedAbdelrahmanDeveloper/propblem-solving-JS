@@ -1,0 +1,11 @@
+{
+  "name": "problem-solving",
+  "version": "1.0.0",
+  "description": "this is problem solving 100 trip",
+  "main": "",
+  "scripts": {
+    "start": "node FILENAME.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
